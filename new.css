@@ -1,0 +1,92 @@
+@media screen and (max-width:990px){
+    body{
+        background-color: rgb(253, 213, 186);
+    }
+    #rest {
+        color: white;
+        font-size: 45;
+        margin-left: 200;
+        margin-top: 250;
+        position: absolute;
+    }
+    
+    .dropdown {
+        width: 700;
+        margin-top: 310;
+        position: absolute;
+        margin-left: 220;
+    }
+    #tilecontainer {
+        height: 180px;
+        width: 40%;
+        float: left;
+        margin-top: 2%;
+        margin-left: 2%;
+        box-shadow: 10px 20px 10px grey;
+        border-radius: 9%;
+    }
+}
+@media screen and (max-width:915px){
+    body{
+        background-color: rgb(235, 243, 167);
+    }
+
+ 
+    }
+    #rest {
+        color: white;
+        font-size: 38;
+        margin-left: 200;
+        margin-top: 250;
+        position: absolute;
+    }
+select {
+    height: 32;
+}
+.dropdown {
+    width: 650;
+    margin-top: 310;
+    position: absolute;
+    margin-left: 200;
+}
+@media screen and (max-width:720px){
+    body{
+        background-color: rgb(186, 240, 240);
+    }
+    .dropdown {
+        width: 500;
+        margin-top: 300;
+        position: absolute;
+        margin-left: 150;}
+        #rest {
+            color: white;
+            font-size: 35;
+            margin-left: 120;
+            margin-top: 250;
+            position: absolute;
+        }
+    }
+
+@media screen and (max-width:641px){
+    body{
+        background-color: rgb(186, 240, 240);
+    }
+    .dropdown {
+        width: 500;
+        margin-top: 300;
+        position: absolute;
+        margin-left: 100;
+    }
+    #rest {
+        color: white;
+        font-size: 30;
+        margin-left: 100;
+        margin-top: 250;
+        position: absolute;
+    }
+}
+@media screen and (max-width:555px){
+    body{
+        background-color: rgb(186, 240, 240);
+    }
+}
